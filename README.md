@@ -17,7 +17,7 @@ P-EADCA denies the possibility of certain knowledge about any absolute reality. 
 
 ## III. World Model (Determinism)
 
-If existence can be assumed, then its operation is deterministic. The universe (if such exists) operates according to rules, and every event is the outcome of these rules. The probabilistic nature of quantum mechanics does not imply free will but merely describes statistically distributed deterministic processes.
+If existence can be assumed, then its operation is deterministic[^1]. The universe (if such exists) operates according to rules, and every event is the outcome of these rules. The probabilistic nature of quantum mechanics does not imply free will but merely describes statistically distributed deterministic processes.
 
 ---
 
@@ -44,3 +44,5 @@ The realization of P-EADCA is liberating: it is not bound by dogmas, belief syst
 > "I may not exist. If I do, I am free to think about anything."
 
 ---
+
+[^1]: The determinism referenced here refers to determinism as it manifests itself at the macro-level of physical laws and systems — not at the level of individual quantum events. While quantum mechanics introduces probabilistic outcomes at the measurement level, the governing equations (e.g., Schrödinger equation) evolve deterministically. Thus, for the purposes of this framework, determinism refers to the rule-based evolution of systems, independent of local probabilistic fluctuations.
